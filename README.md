@@ -1,4 +1,4 @@
-# atom-cyberpunk-theme theme
+# atom-cyberpunk-syntax-theme
 
 Cyberpunk syntax theme.
 
